@@ -1,24 +1,13 @@
-# hj-calendar
+# Hj Calendar ( Vue.js )
 
-## Project setup
-```
-npm install
-```
+## Description
+It‘s just a simple project for helping us to pick certain Hijri-Date based on Gregorian Calendar
+### Screenshots
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![desktop](screenshots/1.JPG)
+![mobile](screenshots/2.JPG)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Using
+[Calendar template](https://codepen.io/yy/pen/GrKLt)
+[moment-hijri](https://github.com/xsoh/moment-hijri)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
