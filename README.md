@@ -4,8 +4,7 @@
 It‘s just a simple project for helping us to pick certain Hijri-Date based on Gregorian Calendar
 ### Screenshots
 
-![desktop](screenshots/1.JPG)
-![mobile](screenshots/2.JPG)
+![desktop](screenshots/3.gif)
 
 ### Using
 [Calendar template](https://codepen.io/yy/pen/GrKLt)
